@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.809.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrispInterpreter", "CrispInterpreter\CrispInterpreter.csproj", "{E7E8E44A-FB44-4194-8EB5-E0BC1742975C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E7E8E44A-FB44-4194-8EB5-E0BC1742975C}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{E7E8E44A-FB44-4194-8EB5-E0BC1742975C}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{E7E8E44A-FB44-4194-8EB5-E0BC1742975C}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{E7E8E44A-FB44-4194-8EB5-E0BC1742975C}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{E7E8E44A-FB44-4194-8EB5-E0BC1742975C}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{E7E8E44A-FB44-4194-8EB5-E0BC1742975C}.Debug|iPhone.Build.0 = Debug|iPhone
+		{E7E8E44A-FB44-4194-8EB5-E0BC1742975C}.Release|iPhone.ActiveCfg = Release|iPhone
+		{E7E8E44A-FB44-4194-8EB5-E0BC1742975C}.Release|iPhone.Build.0 = Release|iPhone
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7DCD952B-C103-4A0D-A1FF-E8CE1935CB63}
+	EndGlobalSection
+EndGlobal
